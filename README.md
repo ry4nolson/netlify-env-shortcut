@@ -2,6 +2,8 @@
 
 A Chrome extension that adds an **Env vars** link directly to the Netlify project nav, so you don't have to dig through Project configuration every time.
 
+![Env vars link in Netlify nav](screenshot.png)
+
 ## Installation
 
 Chrome does not require the Web Store for this — you can load it directly in a few steps.
